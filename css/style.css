@@ -1047,6 +1047,7 @@ textarea.form-control {
 }
 /*Footer-stylesheets-include-here*/
 #footer {
+	margin-top: 100px;
 	text-align:center;
 }
 #footer .bg-sec h2 {
