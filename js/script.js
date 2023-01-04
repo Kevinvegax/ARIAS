@@ -105,7 +105,7 @@ $(document).ready(function() {
 	
 	
  $(window).bind('scroll', function() {
-        var navHeight = $(window).height() - 100;
+        var navHeight = $(window).height() - 800;
         if ($(window).scrollTop() > navHeight) {
             $('.navbar').addClass('on');
         } else {
