@@ -120,7 +120,7 @@ color: #FFF;
 p {
 	font-size:1.3em;
 	color:#666;
-	font-weight:bolder;
+	font-weight:lighter;
 	line-height:25px;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -237,7 +237,7 @@ a.navbar-brand img {
 	position: relative;
 }
 #menu ul.nav li a {
-	font-size:1.3em;
+	font-size:1.4em;
 	color:#fff;
 }
 #menu .nav > li > a {
@@ -312,7 +312,7 @@ ul.nav li.active a:before {
 }
 .carousel-caption p {
 	color:#FFFFFF;
-	font-size:17px;
+	font-size:20px;
 	font-weight:normal;
 	line-height:27px;
 }
@@ -397,7 +397,7 @@ ul.nav li.active a:before {
 .heading p {
 	padding:20px 0px;
 	font-size:1.3em;
-	font-weight:bolder;
+	font-weight:lighter;
 	color:#555;
 }
 .ab-sec {
@@ -1364,4 +1364,8 @@ color:#fff;
 	background-color: #0facac;
 	color: white;
 	height: 50px;
+}
+
+.bolderClass{
+	font-weight: bolder;
 }
