@@ -227,7 +227,7 @@ a.btn-send:hover {
 }
 a.navbar-brand img {
 	position:relative;
-	top:9px;
+	top:-15px;
 }
 #menu {
 	position:absolute;
